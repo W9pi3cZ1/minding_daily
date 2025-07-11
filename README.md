@@ -6,7 +6,7 @@ This is a **record** of my **_study_** life and my **_thoughts_**. I will record
 
 - **_Markdown_**: Record my daily.
 - **Mermaid**: Draw my minding map during _studying_ and _thinking_.
-- **$L^AT_EX$**: _Formulas_ renderer.
+- **$\LaTeX$**: _Formulas_ renderer.
 
 An example of using mermaid to draw a minding map:
 
@@ -17,7 +17,7 @@ graph LR
     %% This minding map is drawn by mermaid
     root --> root.mermaid[Mermaid]
     %% You can use latex to render formulas in this minding map or a markdown file
-    root --> root.latex[$$L^AT_EX$$]
+    root --> root.latex[$$\LaTeX$$]
 ```
 
 ## Record Language
